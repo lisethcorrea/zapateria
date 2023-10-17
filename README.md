@@ -76,3 +76,14 @@ ORDER BY `Articulo`nombre``
 `SELECT Articulo.*, Fabricante.* FROM Fabricante INNER JOIN Articulo ON Fabricante.codigo=Articulo.codigo_fab;`
 
 ![ Consulta 10](10.png)
+
+## 11.Obtener un listado de articulos, incluyendo el nombre del articulo, su precio y el nombre de su fabricante.
+![consultas](11.png)
+## 12. Obtener el precio medio de los productos de cada frabricante, mostrando solo los codigos de fabricante.
+![consultas](12.png)
+## 13. Obtener el precio medio de los productos de cada fabricante, mostrando el nombre del fabricante.
+![consultas](13.png)
+## 14. Obtener el nombre de los fabricantes que ofrezcan productos cuyo precio medio sea mayor o igual a 50000
+![consultas](14.png)
+## 15. Obtener el nombre y el precio del artículo mas barato.
+![consultas](15.png)
